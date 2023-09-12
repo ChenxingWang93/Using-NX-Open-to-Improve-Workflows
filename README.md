@@ -9,7 +9,7 @@ NXOpen is a collection of APIs that allows users to create custom applications f
 - Interface with third-party applications 第三方应用界面
 - Leverage analysis data 数据📊分析
 
-## Repetitive tasks 
+## Repetitive tasks 重复性工作
 - coordinate-system 坐标系统
    - Work Coordinate System
    - Machine Coordinate System
@@ -22,5 +22,24 @@ NXOpen is a collection of APIs that allows users to create custom applications f
 - Material and properties
 - Boundary conditions vendor, customer, design, FBM feature-based machining
 - Update expression
+
+## NXOpen Integrate NXOpen 集成
+integrated third-party applications and platforms
+- Excel
+- Desktop application
+- Business System
+- PLMs
+- Servers
+- Data Sharing
+
+## Toolkits 工具🔧包
+- Journals 日志
+   - 针对 short simple task 小型、简单任务
+   - Singe file
+   - Not compiled 非编译
+- Application 应用
+- Block styler
+
+  
 
 
