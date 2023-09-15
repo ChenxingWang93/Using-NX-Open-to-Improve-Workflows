@@ -38,8 +38,7 @@ integrated third-party applications and platforms 集成第三方 应用程序�
    - Singe file
    - Not compiled 非编译
 - Application 应用
+   - longer more complicated processes 延长复杂过程
 - Block styler 块风格
-
-  
-
-
+   - create user dialogue that has the familiar look and feel of NX
+   - compiled 编译
