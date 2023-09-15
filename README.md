@@ -54,5 +54,4 @@ integrated third-party applications and platforms 集成第三方 应用程序�
    - supports several languages 支持多种语言
 - visual studio 编辑器 
 
-## Playback 回放
-
+## Playback
