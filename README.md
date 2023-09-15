@@ -42,3 +42,17 @@ integrated third-party applications and platforms 集成第三方 应用程序�
 - Block styler 块风格
    - create user dialogue that has the familiar look and feel of NX
    - compiled 编译
+
+## Journal Recording 日志记录
+
+## Journal Editing 日志编辑
+- editor 日志编辑
+   - within NX
+   - simple interface 简单界面
+- notepad ++
+   - free source code editor 免费源码编辑器
+   - supports several languages 支持多种语言
+- visual studio 编辑器 
+
+## Playback 回放
+
