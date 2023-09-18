@@ -44,6 +44,7 @@ integrated third-party applications and platforms 集成第三方 应用程序�
    - compiled 编译
 
 ## Journal Recording 日志记录
+- C#, VB, Java, C++ Python
 
 ## Journal Editing 日志编辑
 - editor 日志编辑
@@ -55,3 +56,4 @@ integrated third-party applications and platforms 集成第三方 应用程序�
 - visual studio 编辑器 
 
 ## Playback
+- only available in C#, VB &Python
