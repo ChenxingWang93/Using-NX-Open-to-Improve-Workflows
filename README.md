@@ -4,6 +4,13 @@ NXOpen is a collection of APIs that allows users to create custom applications f
 
 Official documentation from SIEMENS
 
+|Siemens NX Help|https://docs.plm.automation.siemens.com/tdoc/nx/12/nx_help/#uid:index|
+|---------------|---------------------------------------------------------------------|
+|Programming Tools Help|https://docs.plm.automation.siemens.com/tdoc/nx/12/nx_api/#uid:index|
+|NXOpen.NET Reference|https://docs.plm.automation.siemens.com/data_services/resources/nx/12/nx_api/custom/en_US/nxopen_net/index.html|
+|GettingStartedWithNXOpen|https://docs.plm.automation.siemens.com/data_services/resources/nx/12/nx_api/common/en_US/graphics/fileLibrary/nx/nxopen/nxopen_getting_started_v12.pdf|
+|Marco|https://docs.plm.automation.siemens.com/tdoc/nx/12.0.2/nx_help/#uid:xid1128416:index_recording_nx_sessions|
+
 
 - Access the NX Object Model 访问 NX 对象模型
 - Create and edit geometry 创建并编辑 几何（部件）
