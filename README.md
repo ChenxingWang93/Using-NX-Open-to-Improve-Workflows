@@ -1,6 +1,8 @@
 # Using-NX-Open-to-Improve-Workflows
 
 NXOpen is a collection of APIs that allows users to create custom applications for NX
+Official documentation from SIEMENS
+
 
 - Access the NX Object Model 访问 NX 对象模型
 - Create and edit geometry 创建并编辑 几何（部件）
