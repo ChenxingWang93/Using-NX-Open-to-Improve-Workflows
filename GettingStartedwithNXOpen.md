@@ -1,3 +1,4 @@
+
 ## Introduction
 ![4781695029820_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/b91c8416-e863-4742-afbf-8f0a922200c4)
 ![4791695029823_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/2d78d618-6352-41ab-9227-d0c23ef2727c)
@@ -15,3 +16,10 @@
 ![4891695030604_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/31e69ddf-b330-4f18-853f-477ec6a93c65)
 ![4901695030604_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/681f9b30-fc90-4c7a-b637-c3ce54426374)
 ![4911695030605_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/f1da57a0-7046-46c7-8abe-7684470b5ea6)
+
+
+## UsingVisualStudioExpress
+![Chapter3_UsingVisualStudioExpress_20230913_15](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/db08a71a-9167-4824-b65c-ce22d6dc29e1)
+![Chapter3_UsingVisualStudioExpress_20230913_16](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/61ec940f-debb-4518-a2c8-64816eaadae7)
+![Chapter3_UsingVisualStudioExpress_20230913_17](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/f74d1ad9-77b0-4329-a1e5-4416b1df40eb)
+
