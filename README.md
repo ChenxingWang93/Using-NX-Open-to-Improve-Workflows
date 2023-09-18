@@ -66,3 +66,7 @@ integrated third-party applications and platforms 集成第三方 应用程序�
 
 ## Playback 回放
 - only available in C#, VB &Python
+
+
+## Reference 参考
+[Using NX Open to Improve Your Workflows](https://www.appliedcax.com/resources/nx-cam-resources)
