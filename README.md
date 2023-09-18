@@ -64,5 +64,5 @@ integrated third-party applications and platforms 集成第三方 应用程序�
    - free version available 
    - best for larger projects that will be compiled 被编译的大型项目
 
-## Playback
+## Playback 回放
 - only available in C#, VB &Python
