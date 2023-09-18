@@ -46,14 +46,23 @@ integrated third-party applications and platforms 集成第三方 应用程序�
 ## Journal Recording 日志记录
 - C#, VB, Java, C++ Python
 
+## Introduction to Journaling 日志介绍
+- Select language 选择语言 (C#, VB, etc)
+   - (Preferences -> User interface -> Tools -> Journal Language)
+   - (File -> Utilities -> Customer Defaults -> Gateway -> User Interface -> Journal -> Journal Language) 
+- Record (Developer Tab -> Record) 开发者标签栏🏷️可能被隐藏
+- Playback your journal 回放日志 (Developer Tab -> Play)
+
 ## Journal Editing 日志编辑
 - editor 日志编辑
-   - within NX
+   - within NX NX内部
    - simple interface 简单界面
 - notepad ++
    - free source code editor 免费源码编辑器
    - supports several languages 支持多种语言
-- visual studio 编辑器 
+- visual studio 编辑器
+   - free version available 
+   - best for larger projects that will be compiled 被编译的大型项目
 
 ## Playback
 - only available in C#, VB &Python
