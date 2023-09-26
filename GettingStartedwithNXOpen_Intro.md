@@ -52,6 +52,8 @@
 ![5151695718819_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/6a1078a9-3dd8-4f03-9756-ffa289b51cbf)
 
 ## TheVisualBasicLanguage
-
-
+- 29
+![5161695718830_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/6de7f571-d98a-48fd-aaea-42a28a99eb2d)
+- 30
+![5171695719013_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/2a2f0538-b9cb-4478-bfca-62f1974d8964)
 
