@@ -56,4 +56,30 @@
 ![5161695718830_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/6de7f571-d98a-48fd-aaea-42a28a99eb2d)
 - 30
 ![5171695719013_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/2a2f0538-b9cb-4478-bfca-62f1974d8964)
+- 31
+![5181695719016_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/c17dbf5f-d319-408f-b60d-9f8337324cb3)
+- 32
+![5191695719020_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/9d2cf485-83cb-412d-8723-d00345c21818)
+- 33
+![5201695719024_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/d58bee58-1441-42ed-83bd-945859b58db1)
+- 34
+![5211695719029_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/b9fa771a-d40f-46d4-ad4e-aaa5ef4ff9f8)
+- 35
+![5221695719032_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/420ca2a7-08b1-49f3-9861-8b22c611b7ba)
+- 36
+![5231695719035_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/bf4b9c62-6bd0-4348-a81d-ac1a72d189ec)
+- 37
+![5241695719039_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/96c7b26d-2f51-47d9-9ae5-03a23c1cbc47)
+- 38
+![5251695719042_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/7c871e7b-93b6-453c-8d93-16a1f87306eb)
+- 39
+![5261695719045_ pic_hd](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/64c2f84d-4afb-4974-af24-007660ba0c08)
+- 40
+![5271695719048_ pic_hd](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/7b80dcbe-dea6-47f8-8a9d-1fa8a5af11cf)
+- 41
+![5281695719060_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/632e7620-9afb-4032-9f38-1b0f402353fe)
+- 42
+![5291695719065_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/90d373e1-8329-45c8-9fa4-22fdc408ddd5)
+
+
 
