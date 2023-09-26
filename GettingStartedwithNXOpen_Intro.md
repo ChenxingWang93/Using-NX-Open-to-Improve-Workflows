@@ -49,4 +49,9 @@
 
 ![Chapter3_UsingVisualStudioExpress_20230913_26](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/726bd693-b507-4ea2-b10a-729c9e05d2d6)
 ![Chapter3_UsingVisualStudioExpress_20230913_27](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/4fcbddb9-7eb7-4937-9b60-20860dbe54e6)
+![5151695718819_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/6a1078a9-3dd8-4f03-9756-ffa289b51cbf)
+
+## TheVisualBasicLanguage
+
+
 
