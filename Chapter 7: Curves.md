@@ -7,3 +7,11 @@
 ![5461695799902_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/4ba1a12b-1f05-4d55-b564-8024ec584428)
 
 ![5471695799908_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/dec5aa9d-bd23-4c0a-9a71-19d62be3e14b)
+
+![5481695799914_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/5df8c4c3-8881-42d3-854d-485a38802043)
+
+![5491695799918_ pic_hd](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/b49d2751-95f5-4173-8034-e15115785424)
+
+![5501695799923_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/f3bf4231-5361-4bcc-a659-479f4d1aa34f)
+
+![5511695799931_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/d0677b37-730f-481b-b595-9fecc8f4fc45)
