@@ -82,3 +82,7 @@ addsigningresources
 ![image](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/836eaaa3-64ba-421a-aecd-bed7c68f6be3)
 ![image](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/267dc580-3b3f-4803-8f9f-c6ab04f3fef7)
 ![image](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/7d450466-bf03-4e45-a1db-2fea59dd81e8)
+
+
+## Reference 参考
+[](https://blog.csdn.net/Oskar_Lu/article/details/99136423?spm=1001.2014.3001.5502)
