@@ -1,8 +1,8 @@
-# Using-NX-Open-to-Improve-Workflows
+# Using-NX-Open-to-Improve-Workflows 使用NX-Open 来提高工作流程
 
-NXOpen is a collection of APIs that allows users to create custom applications for NX
+NXOpen is a collection of APIs that allows users to create custom applications for NX NXOpen 是 APIs 集允许通过其定制应用程序
 
-Official documentation from SIEMENS
+Official documentation from SIEMENS 以下是西门子官方提供的文档
 
 |Siemens NX Help|https://docs.plm.automation.siemens.com/tdoc/nx/12/nx_help/#uid:index|
 |---------------|---------------------------------------------------------------------|
