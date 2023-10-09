@@ -1,8 +1,8 @@
-'D:\Program Files\Siemens\NX 11.0\NXBIN'
+- 'D:\Program Files\Siemens\NX 11.0\NXBIN'
 ![image](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/d0a7c4e4-a984-4528-b21f-199a714768f7)
 
 
-'D:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE'
+- 'D:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE'
 ![image](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/0d143e1e-1f3b-4509-b47e-a0a723655377)
 
 
@@ -10,13 +10,13 @@ copy files 'VB', 'VC', 'VC#' from 'D:\Program Files\Siemens\NX 11.0\UGOPEN\vs_fi
 
 to 
 
-'D:\Program Files\Microsoft Visual Studio\2022\Community'
+- 'D:\Program Files\Microsoft Visual Studio\2022\Community'
 ![image](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/5105e3c0-8bf6-45d7-8f82-c0f460ccc333)
 
 
 Open
 
-'D:\Program Files\Siemens\NX 11.0\UGOPEN\vs_files\VC#\CSharpProjects' 'NX11_VCS.vsz'
+- 'D:\Program Files\Siemens\NX 11.0\UGOPEN\vs_files\VC#\CSharpProjects' 'NX11_VCS.vsz'
 
 with notebook
 ![image](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/fa0695e6-3bbc-4fe4-8e51-eb196422a5c1)
@@ -33,19 +33,19 @@ Open 'Visual Studio 2022'
 ![image](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/08295532-8a85-457d-baf2-90ad96655b8a)
 
 
-Create a new proj -> choose 'Class Library(.NET Framework)'
+- Create a new proj -> choose 'Class Library(.NET Framework)'
 ![image](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/f652ea96-1476-4ae0-b7a2-596a2cfc8091)
 
 
-rename proj name 'ClassLib1' to 'NXOPen_Test'
+- rename proj name 'ClassLib1' to 'NXOPen_Test'
 ![image](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/3930860f-38ad-4c86-a843-338daa1fbd22)
 
 
 ![image](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/b4013522-d6a2-4f71-8c10-35a4da979563)
 
 
-mouse right click 'add'->'reference'
-select all
+- mouse right click 'add'->'reference'
+- select all
 ☑️'NXOpen.Guide.dll'
 ☑️'NXOpen.dll'
 ☑️'NXOpenUI.dll'
@@ -58,7 +58,7 @@ select all
 ![image](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/ea510597-2884-4528-b205-9ca79e0dfd35)
 
 
-right click 'properties'
+- right click 'properties'
 ![image](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/486b4b4d-7add-45b3-82a7-0df60bf16614)
 
 
@@ -71,7 +71,7 @@ right click 'properties'
 ""D:\Program Files\Siemens\NX 11.0\NXBIN" "$(TargetPath)""
 
 
-addsigningresources
+- addsigningresources
 ![image](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/365542e7-bdf5-4d03-8c42-a84472195831)
 ![image](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/9ffbebe2-4bb6-44ab-96f9-741101268119)
 ![image](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/ab4eab16-4b1a-4665-a3f0-3c5d83f89d1e)
