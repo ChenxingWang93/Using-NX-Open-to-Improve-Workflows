@@ -1,8 +1,12 @@
 - 15
+  - Installing Visual Studio
 
 ![Chapter3_UsingVisualStudioExpress_20230913_15](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/db08a71a-9167-4824-b65c-ce22d6dc29e1)
 
 - 16
+  - Installing NXOpen Templates
+  - Licensing Issues Again
+  - 
 
 ![Chapter3_UsingVisualStudioExpress_20230913_16](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/61ec940f-debb-4518-a2c8-64816eaadae7)
 
