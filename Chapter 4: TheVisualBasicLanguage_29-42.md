@@ -34,34 +34,46 @@
 ![5211695719029_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/b9fa771a-d40f-46d4-ad4e-aaa5ef4ff9f8)
 
 - 35
-  - 
+  - Logical Values &Operators
+  - Arrays
 
 ![5221695719032_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/420ca2a7-08b1-49f3-9861-8b22c611b7ba)
 
 - 36
+  - Other Types of Collections
+  - Strings
 
 ![5231695719035_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/bf4b9c62-6bd0-4348-a81d-ac1a72d189ec)
 
 - 37
+  - Enumerations
+  - Nothing
 
 ![5241695719039_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/96c7b26d-2f51-47d9-9ae5-03a23c1cbc47)
 
 - 38
+  - Decision Statements
+  - Looping
 
 ![5251695719042_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/7c871e7b-93b6-453c-8d93-16a1f87306eb)
 
 - 39
+  - Functions Subroutines
 
 ![5261695719045_ pic_hd](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/64c2f84d-4afb-4974-af24-007660ba0c08)
 
 - 40
+  - Classes
 
 ![5271695719048_ pic_hd](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/7b80dcbe-dea6-47f8-8a9d-1fa8a5af11cf)
 
 - 41
+  - Shared Functions
+  - Object Properties
 
 ![5281695719060_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/632e7620-9afb-4032-9f38-1b0f402353fe)
 
 - 42
+  - Hierarchy &Inheritance
 
 ![5291695719065_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/90d373e1-8329-45c8-9fa4-22fdc408ddd5)
