@@ -1,28 +1,40 @@
 - 29
+  - The Development Process
+  - Structure of a Visual Basic Program
 
 ![5161695718830_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/6de7f571-d98a-48fd-aaea-42a28a99eb2d)
 
 - 30
+  - The Main Procedure
+  - Classes, Modules & Files
+  - An Example Program
 
 ![5171695719013_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/2a2f0538-b9cb-4478-bfca-62f1974d8964)
 
 - 31
+  - Lines of Code
 
 ![5181695719016_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/c17dbf5f-d319-408f-b60d-9f8337324cb3)
 
 - 32
+  - Built-In Data Types
+  - Declaring & Initializing Variables 
 
 ![5191695719020_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/9d2cf485-83cb-412d-8723-d00345c21818)
 
 - 33
+  - Omitting Variable Declarations
 
 ![5201695719024_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/d58bee58-1441-42ed-83bd-945859b58db1)
 
 - 34
+  - Data Type Conversions
+  - Arithmetic &Math
 
 ![5211695719029_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/b9fa771a-d40f-46d4-ad4e-aaa5ef4ff9f8)
 
 - 35
+  - 
 
 ![5221695719032_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/420ca2a7-08b1-49f3-9861-8b22c611b7ba)
 
