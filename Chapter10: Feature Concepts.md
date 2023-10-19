@@ -16,3 +16,7 @@
 
 - 80
 ![6221697702775_ pic_hd](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/e6f5e742-7f54-4f10-ab58-b4dedbc3c6fa)
+
+- 81
+
+- 82
