@@ -1,1 +1,1 @@
-![5601695801935_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/7fdf29b8-4792-4dff-9c09-e17a98dd5bfb)
+![6261697707189_ pic_hd](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/9760caa6-1c68-4bd9-a650-e4a164337ef7)
