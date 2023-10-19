@@ -1,4 +1,4 @@
-![6201697702728_ pic_hd](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/df7da152-7c82-4af7-b79a-a0bf99a30585)- 76
+- 76
   - What is a Feature?  
 ![5601695801935_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/ef653310-2a34-4346-a070-b36bb550b1f0)
 
