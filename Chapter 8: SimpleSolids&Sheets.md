@@ -9,7 +9,9 @@
 - 66
 
 - 67
+  - Extruded Bodies 挤出
 ![6161697697349_ pic_hd](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/f68a983a-aa0e-4115-af4a-d0f0c51aa37b)
 
 - 68
+  - Resolved Bodies 已解析的实体
 ![6171697697362_ pic_hd](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/46fd7ecc-369b-45cf-a589-e2215d5d51fe)
