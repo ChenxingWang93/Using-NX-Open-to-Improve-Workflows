@@ -37,3 +37,18 @@
 - 91
   - Creating an Assembly 创建一个装配
 ![6491697783731_ pic_hd](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/47506c32-b773-4ede-a981-7a9ae31a74f8)
+
+- 92
+
+- 93
+  - More Advanced Positioning
+![6651697793191_ pic_hd](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/bab1e400-2dc9-4ece-9db4-0032e156507c)
+
+- 94
+  - Changing Reference Sets
+![6661697793194_ pic_hd](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/010dd763-3106-4e49-9c0d-14200cd3b0c3)
+
+- 95
+  - Other Topics
+![6671697793200_ pic_hd](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/29ea5ab2-b94e-4e08-b5c4-bf4e87453c92)
+
