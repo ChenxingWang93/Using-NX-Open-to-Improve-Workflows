@@ -18,3 +18,8 @@
   - Cycling Through an Assembly
 
 ![6421697782562_ pic_hd](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/aa1526aa-671d-4c2c-b0ac-6285db384933)
+
+- 88
+  - indented listings 锁进列表
+  - Component, Positions &Orientations 部件 位置 &朝向
+![Uploading 6471697783717_.pic_hd.jpg…]()
