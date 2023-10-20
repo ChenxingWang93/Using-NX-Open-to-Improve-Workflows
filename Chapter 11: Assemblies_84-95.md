@@ -40,6 +40,9 @@
 
 - 92
 
+![6681697793584_ pic_hd](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/8dc74241-c226-48d6-8809-e2e02edc749b)
+
+
 - 93
   - More Advanced Positioning
 ![6651697793191_ pic_hd](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/bab1e400-2dc9-4ece-9db4-0032e156507c)
