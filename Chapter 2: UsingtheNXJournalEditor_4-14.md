@@ -14,7 +14,11 @@
   - The Guide Functions
   - Example 1: Hello World
 
+<details>
+<summary> 截图 </summary>
+  
 ![4851695030602_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/05f32edd-2ad3-4740-8869-ae9d0dfbcdd9)
+</details>
 
 - 6
   - Example 2: Collections
