@@ -1,9 +1,14 @@
+
 - 4
   - System Requirement - The .NET Framework
   - Typographic Convensions
   - Licensing
 
+<details>
+<summary> 截图 </summary>
+  
 ![4831695030602_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/9851fd9d-658f-4032-9113-d85d22d5027f)
+</details>
 
 - 5
   - The Guide Functions
