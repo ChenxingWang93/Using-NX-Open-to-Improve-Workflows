@@ -9,9 +9,9 @@
 
 
 - 30
-  - The Main Procedure
-  - Classes, Modules & Files
-  - An Example Program
+  - The Main Procedure 主要过程
+  - Classes, Modules & Files 类, 模块 & 域
+  - An Example Program 
 
 <details>
 <summary> 截图 </summary>
@@ -30,8 +30,8 @@
 
 
 - 32
-  - Built-In Data Types
-  - Declaring & Initializing Variables
+  - Built-In Data Types 内置数据类型
+  - Declaring & Initializing Variables 声明 &初始化变量
 <details>
 <summary> 截图 </summary>
 
@@ -40,7 +40,7 @@
 
 
 - 33
-  - Omitting Variable Declarations
+  - Omitting Variable Declarations 变量声明
 <details>
 <summary> 截图 </summary>
 
