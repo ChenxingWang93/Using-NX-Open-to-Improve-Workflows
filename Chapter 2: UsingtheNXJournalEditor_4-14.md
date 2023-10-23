@@ -20,14 +20,24 @@
 ![4851695030602_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/05f32edd-2ad3-4740-8869-ae9d0dfbcdd9)
 </details>
 
+
 - 6
   - Example 2: Collections
 
+<details>
+<summary> 截图 </summary>
+
 ![4861695030603_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/5ff5cf66-65c3-468a-9b10-b8bd2094dba9)
+</details>
 
 - 7
 
+
+<details>
+<summary> 截图 </summary>
+  
 ![4871695030603_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/a3340f2c-7114-4852-802c-5ff149ea1a87)
+</details>
 
 - 8
   - Example 3: Creating Simple Geometry 
