@@ -27,7 +27,7 @@
 
 
 - 87
-  - Cycling Through an Assembly
+  - Cycling Through an Assembly 遍历一个装配体
 <details>
 <summary> 截图 </summary>
   
@@ -79,7 +79,7 @@
 
 
 - 93
-  - More Advanced Positioning
+  - More Advanced Positioning 更高级的定位
 <details>
 <summary> 截图 </summary>
   
@@ -88,7 +88,7 @@
 
 
 - 94
-  - Changing Reference Sets
+  - Changing Reference Sets 修改参考集
 <details>
 <summary> 截图 </summary>
   
@@ -97,7 +97,7 @@
 
 
 - 95
-  - Other Topics
+  - Other Topics 其他话题
 <details>
 <summary> 截图 </summary>
   
