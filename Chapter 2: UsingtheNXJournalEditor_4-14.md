@@ -91,9 +91,12 @@ Next cur
 Guide.InfoWriteLine("Work part has " & numCurves & " curves.")
 ```
 
-- 8
-  - Example 3: Creating Simple Geometry 
+|Lines of code|Explanation|
+|-------------|-----------|
 
+- 8
+  - Example 3: Creating Simple Geometry
+ 
 <details>
 <summary> 截图 </summary>
   
