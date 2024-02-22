@@ -30,14 +30,50 @@
 ![4861695030603_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/5ff5cf66-65c3-468a-9b10-b8bd2094dba9)
 </details>
 
+[...NX]\UGOPEN\NXOpenExamples\VB\Templates
+
+[...NX] shorthand for the location where NX is installed
+
+somewhere like C:\Program Files\Siemens\NX 12
+
+``` vb
+Imports System
+Imports NXOpen
+
+Module NXOpenSample
+  Sub Main ()
+
+    Dim theSession = Session.GetSession()
+
+    'Your code goes here'
+  End Sub
+End Module
+```
+
+```
+Guide.InfoWriteLine("Hello, World!")
+```
+
 - 7
-
-
 <details>
 <summary> 截图 </summary>
   
 ![4871695030603_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/a3340f2c-7114-4852-802c-5ff149ea1a87)
 </details>
+
+``` vb
+Imports NXOpen
+
+Module NXJournal
+   Sub Main ()
+      
+      Dim theSession = NXOpen.Session.GetSession()
+
+      'Your code goes here'
+    End Sub
+End Module
+```
+
 
 - 8
   - Example 3: Creating Simple Geometry 
