@@ -22,7 +22,7 @@
 
 
 - 6
-  - Example 2: Collections
+  - Example 2: Collections 集
 
 <details>
 <summary> 截图 </summary>
@@ -97,7 +97,7 @@ Guide.InfoWriteLine("Work part has " & numCurves & " curves.")
 |For Each curve In workPart.Curves||
 
 - 8
-  - Example 3: Creating Simple Geometry
+  - Example 3: Creating Simple Geometry 创建 简单 几何📐
  
 <details>
 <summary> 截图 </summary>
@@ -120,7 +120,7 @@ Work part has 8 curves
 ```
 
 - 9
-  - Example 4: Reading Attributes
+  - Example 4: Reading Attributes 读取 属性
 
 <details>
 <summary> 截图 </summary>
@@ -162,7 +162,7 @@ Work part has 8 curves
 </details>
 
 - 14
-  - What Next?
+  - What Next? 下一个
 
 <details>
 <summary> 截图 </summary>
