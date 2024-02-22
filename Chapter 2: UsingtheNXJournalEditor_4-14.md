@@ -74,6 +74,22 @@ Module NXJournal
 End Module
 ```
 
+replace 'Your code goes here' 
+
+with
+
+``` vb
+Dim workPart = theSession.Parts.Work
+
+Dim numCurves As Integer = 0
+Dim curveLength As Double
+For Each cur As curve In workPart.Curves
+   numCurves = numCurves + 1
+   curveLength = cur.GetLength
+   Guide.InfoWriteLine("Curve "& numCurves & " has length " & curveLength)
+Next cur
+Guide.InfoWriteLine("Work part has " & numCurves & " curves.")
+```
 
 - 8
   - Example 3: Creating Simple Geometry 
