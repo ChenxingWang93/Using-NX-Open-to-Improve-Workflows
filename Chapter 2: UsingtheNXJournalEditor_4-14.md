@@ -105,6 +105,20 @@ Guide.InfoWriteLine("Work part has " & numCurves & " curves.")
 ![4881695030603_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/d07434c5-6835-4d35-81c5-816119b6082f)
 </details>
 
+see the following output if you used the curves.prt part file
+
+``` pseudocode
+Curve 1 has length 162.999980765796
+Curve 2 has length 198.00000586428
+Curve 3 has length 198.368182323472
+Curve 4 has length 233.301819519901
+Curve 5 has length 159.651987547216
+Curve 6 has length 109.226575886056
+Curve 7 has length 350.572788226968
+Curve 8 has length 321.167240792993
+Work part has 8 curves
+```
+
 - 9
   - Example 4: Reading Attributes
 
