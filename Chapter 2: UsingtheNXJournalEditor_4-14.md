@@ -273,6 +273,13 @@ Module NXOpenSample
 End Module
 ```
 
+``` vb
+Sub Handler(sender As Object, e As EventArgs) Handles myButton.Click
+   Dim x = 100 * rand.NextDouble     'Get a random x-coordinate between 0 and 100
+   Dim y = 100 * rand.NextDouble     'Get a random y-coordinate between 0 and 100
+   Dim z = 100 * rand.NextDouble     'Get a random z-coordinate between 0 and 100
+   Guide.CreateSphere(x, y, z, 10)   'Create a sphere at (x,y,z) with diameter 10
+```
 
 - 14
   - What Next? 下一个
