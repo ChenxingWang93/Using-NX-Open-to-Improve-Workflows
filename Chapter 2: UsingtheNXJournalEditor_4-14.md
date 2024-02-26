@@ -128,6 +128,43 @@ Work part has 8 curves
 ![4841695030602_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/e5a377c2-da68-4932-8106-aac0059bcbb4)
 </details>
 
+``` vb
+Dim workPart = theSession.Parts.Work
+Dim vertex As New Point3d(0,0,0)
+Dim focus As New Point3d(100,0,0)
+Dim axisX As New Vector3d(1,0,0)
+Dim axisY As New Vector3d(0,1,0)
+
+Dim focLength = focus.X
+Dim h = 100.0
+
+Dim p1, p2 As Point3d
+
+Dim lens = workPart.Curves.CreateParabola(vertex, axisX, axisY, focLength, -h, h)
+
+For y = -h to h Step 10.0
+   Dim x = (y*y)/(4.0*focLength)
+   p1 = New Point3d(x,y,0)
+   p2 = New Point3d(250,y,0)
+   workPart.Curves.CreateLine(focus, p1)
+   workPart.Curves.CreateLine(p1, p2)
+Next y
+```
+
+``` vb
+Dim theSession = Session.GetSession()
+
+Guide.InfoWriteLine("Outputting list of attributes in each body in the work part:")
+Dim bodies = theSession.Parts.Work.Bodies
+For Each bod As body in bodies
+   Dim attributes = bod.GetUserAttributes()
+   For Each attr As NXObject.AttributeInformation in attributes
+      Guide.InfoWriteLine(attr.Title & " = " & attr.StringValue)
+   Next attr
+Next bod
+Guide.InfoWriteLine("")
+```
+
 - 10
 
 <details>
