@@ -220,6 +220,18 @@ End Module
 ![4901695030604_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/681f9b30-fc90-4c7a-b637-c3ce54426374)
 </details>
 
+``` C
+Sub Main()
+   Dim myForm As New System.Windows.Forms.Form()      'Create a Windows form
+   NXOpenUI.FormUtilities.SetApplicationIcon(myForm)  'Use an NX icon for the application icon
+   NXOpenUI.FormUtilities.ReparentForm(myForm)        'Set NX as the parent of our form
+   myForm.BackColor = System.Drawing.Color.Red        'Color our form red
+   myForm.Opacity = 0.5                               'Make our form translucent
+   myForm.Text = "Hi there"                           'Change the title of our form
+   myForm.ShowDialog = ()                             'Display our form
+End Sub
+```
+
 - 12
 
 <details>
