@@ -174,6 +174,43 @@ Guide.InfoWriteLine("")
 ![4891695030604_ pic](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/31e69ddf-b330-4f18-853f-477ec6a93c65)
 </details>
 
+| | |
+|-|-|
+
+``` vb
+Imports NXOpen
+
+Module NXJournal
+   Sub Main ()
+      
+      Dim theSession = Session.GetSession()
+
+      Guide.InfoWriteLine("Outputting list of user attributes on geometry in the work part:")
+      Dim bodies = theSession.Parts.Work.Bodies
+      For Each bod AS body in bodies
+         PrintAttributes(bod)
+         Dim edges = bod.GetEdges()
+         For Each edg As edge in edges
+            PrintAttributes(edg)
+         Next edg
+         Dim faces = bod.GetFaces()
+         For Each f As face in faces
+            PrintAttributes(f)
+         Next f
+      Next bod
+      Guide.InfoWriteLine("")
+   End Sub
+
+   Sub PrintAttributes (obj As NXObject)
+      Dim attributes = obj.GetUserAttributes()
+      For Each attr As NXObject.AttributeInformation in attributes
+         Guide.InfoWriteLine(attr.Title & " = " & attr.StringValue)
+      Next attr
+   
+   End Sub
+End Module  
+```
+
 - 11
   - Example 5: WinForms(The Hard Way)
 
