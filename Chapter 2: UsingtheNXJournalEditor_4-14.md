@@ -95,6 +95,7 @@ Guide.InfoWriteLine("Work part has " & numCurves & " curves.")
 |-------------|-----------|
 |Dim workPart = theSession.Parts.Work|Declares a variable "workPart"|
 |For Each curve In workPart.Curves||
+|||
 
 - 8
   - Example 3: Creating Simple Geometry 创建 简单 几何📐
