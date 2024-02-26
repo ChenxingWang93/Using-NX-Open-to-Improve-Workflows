@@ -248,6 +248,32 @@ End Sub
 ![5131695714647_ pic_hd](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/2d161aed-841b-4dc4-a48a-d4acfa66a5ea)
 </details>
 
+``` vb
+Imports NXOpen, NXOpenUI
+Imports System, System.Drawing.Color, System.Windows.Forms
+
+Module NXOpenSample
+  Dim WithEvents myButton As Button        'A variable to hold a button
+  Dim theSession As Session                'A variable to hold the NX Session
+  Dim rand As Random                       'A variable to hold a random number generator
+
+  Sub Main()
+    theSession = Session.GetSession               'Get the NX Session
+    rand = New Random                             'Create a random number generator
+    Dim myForm As New Form                        'Create a Windows form
+    myForm.Text = "Create Random Spheres"
+    FormUtilities.SetApplicationIcon(myForm)      'Use an NX icon for the application icon
+    FormUtilities.ReparentForm(myForm)            'Set NX as the parent of our form
+    myButton = New Button                         'Create a button
+    myButton.BackColor = Yellow                   'Color it yellow
+    myButton.Text = "Click me"                    'Put some text on it
+    myForm.Controls.Add(myButton)                 'Add it to our form
+    myForm.ShowDialog                             'Display our form
+  End Sub
+End Module
+```
+
+
 - 14
   - What Next? 下一个
 
