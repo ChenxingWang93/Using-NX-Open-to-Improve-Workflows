@@ -44,6 +44,29 @@
 ![Chapter3_UsingVisualStudioExpress_20230913_19](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/4b1d6746-f9e6-4ef6-84ab-53571564d76c)
 </details>
 
+``` vb
+Dim sel = NXOpen.UI.GetUI.SelectionManager
+Dim myView As View
+Dim p1, p2, p3 As Point3d
+sel.SelectScreenPosition("Specify first point",myView, p1)   ' Get first point from user '
+sel.SelectScreenPosition("Specify second point",myView, p2)  ' Get second point '
+sel.SelectScreenPosition("Specify third point",myView, p3)   ' Get third point '
+u As New Vector3d(p2.X - p1.X, p2.Y - p1.Y, p2.Z - p1.Z)  'Vector3d from p1 to p2'
+v As New Vector3d(p3.X - p1.X, p3.Y - p1.Y, p3.Z - p1.Z)  'Vector3d from p1 to p3'
+uu = u.X * u.X + u.Y * u.Y + u.Z * u.Z   'Dot product of vectors'
+uv = u.X * v.X + u.Y * v.Y + u.Z * v.Z
+vv = v.X * v.X + v.Y * v.Y + v.Z * v.Z
+det = uu * vv - uv * uv                  ' Determinate for solving linear equations '
+alpha = (uu * vv - uv * uv) / (2 * det)
+beta = (uu * vv - uu * uv) / (2 * det)
+rx = alpha * u.X + beta * v.X            ' Radius vector components '
+ry = alpha * u.Y + beta * v.Y 
+rz = alpha * u.Z + beta * v.Z
+radius = Math.Sqrt(rx*rx + ry*ry + rz*rz)' Radius is length (norm) of this vector '
+
+Guide.InfoWriteLine(radius)              ' Output to Info window '
+```
+
 - 20
   - Example 3: WinForms Again
 
