@@ -53,7 +53,7 @@ sel.SelectScreenPosition("Specify second point",myView, p2)  ' Get second point 
 sel.SelectScreenPosition("Specify third point",myView, p3)   ' Get third point '
 u As New Vector3d(p2.X - p1.X, p2.Y - p1.Y, p2.Z - p1.Z)  'Vector3d from p1 to p2'
 v As New Vector3d(p3.X - p1.X, p3.Y - p1.Y, p3.Z - p1.Z)  'Vector3d from p1 to p3'
-uu = u.X * u.X + u.Y * u.Y + u.Z * u.Z   'Dot product of vectors'
+uu = u.X * u.X + u.Y * u.Y + u.Z * u.Z   ' Dot product of vectors '
 uv = u.X * v.X + u.Y * v.Y + u.Z * v.Z
 vv = v.X * v.X + v.Y * v.Y + v.Z * v.Z
 det = uu * vv - uv * uv                  ' Determinate for solving linear equations '
