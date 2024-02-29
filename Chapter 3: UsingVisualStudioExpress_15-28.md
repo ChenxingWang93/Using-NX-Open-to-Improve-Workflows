@@ -93,6 +93,16 @@ Dim vv As Double = v.X * v.X + v.Y * v.Y + v.Z * v.Z
 ![Chapter3_UsingVisualStudioExpress_20230913_21](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/db6131c1-a317-4454-8176-7c41bd19b2c3)
 </details>
 
+``` vb
+Imports NXOpen
+
+Public Class NXOpenWinForm
+   Private Sub Button_Click(sender As System.Object, e As System.EventArgs) Handles Button1.Click
+
+   End Sub
+End Class
+```
+
 - 22
   - Example 4: Hello World Yet Again(the hard way) 
 
