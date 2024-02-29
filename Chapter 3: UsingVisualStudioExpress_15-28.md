@@ -76,6 +76,15 @@ Guide.InfoWriteLine(radius)              ' Output to Info window '
 ![Chapter3_UsingVisualStudioExpress_20230913_20](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/0884c6f1-506d-45c1-b5aa-511eb07f994f)
 </details>
 
+``` vb
+Dim u As New Vector3d(p2.X - p1.X, p2.Y - p1.Y, p2.Z - p1.Z)
+Dim v As New Vector3d(p3.X - p1.X, p3.Y - p1.Y, p3.Z - p1.Z)
+Dim uu As Double = u.X * u.X + u.Y * u.Y + u.Z * u.Z
+Dim uv As Double = u.X * v.X + u.Y * v.Y + u.Z * v.Z
+Dim vv As Double = v.X * v.X + v.Y * v.Y + v.Z * v.Z
+
+```
+
 - 21
 
 <details>
