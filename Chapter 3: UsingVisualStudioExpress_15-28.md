@@ -112,6 +112,21 @@ End Class
 ![Chapter3_UsingVisualStudioExpress_20230913_22](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/fe372858-2e24-4650-932f-982190bed3a7)
 </details>
 
+``` vb
+Private Sub Button1_Click(sender As System.Object, e As System.EventArgs) Handles Button1.Click
+  Guide.InfoWriteLine("Creating a sphere")
+  Guide.CreateSphere(0, 0, 0, 10)
+End Sub
+```
+
+``` vb
+myForm.Text = "Create Random Spheres"
+myButton = New Button
+myButton.BackColor = Color.Yellow
+myButton.Text = "Click me"
+myForm.Controls.Add(myButton)
+```
+
 - 23
 
 <details>
