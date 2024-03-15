@@ -160,6 +160,36 @@ End Sub
 ![Chapter3_UsingVisualStudioExpress_20230913_25](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/29cac710-53a1-4049-b910-5790fcf34ace)
 </details>
 
+``` vb
+' NX 12.0.0.8
+Imports System
+Imports NXOpen
+
+Module NXJournal
+  Sub Main(ByVal args() As String)
+     Dim theSession As NXOpen.Session = NXOpen.Session.GetSession()
+     Dim workPart As NXOpen.Part = theSession.Parts.Work
+
+     Dim displayPart As NXOpen.Part = theSession.Parts.Display
+
+     ' ----------------------------------------------
+     '   Menu: Format->Move to Layer...
+     ' ----------------------------------------------
+     Dim markId1 As NXOpen.Session.UndoMarkId
+     markId1 = theSession.SetUndoMark(NXOpen.Session.MarkVisibility.Visible, "Move Layer")
+     Dim objectArray1(0) As NXOpen.DisplayableObject
+     Dim body1 As NXOpen.Body = CType(workPart.Bodies.FindObject("CYLINDER(2)"), NXOpen.Body)
+
+     objectArray1(0) = body1
+     workPart.Layer.MoveDisplayableObject(45, objectArray1)
+
+     ' --------------------------------------------
+     '   Menu: Tools->Journal->Stop Recording
+     ' --------------------------------------------
+  End Sub
+End Module
+```
+
 - 26
 
 <details>
