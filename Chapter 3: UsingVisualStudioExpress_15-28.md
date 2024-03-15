@@ -121,11 +121,19 @@ End Sub
 
 ``` vb
 myForm.Text = "Create Random Spheres"
-myButton = New Button
-myButton.BackColor = Color.Yellow
-myButton.Text = "Click me"
-myForm.Controls.Add(myButton)
+myButton = New Button                    'Create a button'
+myButton.BackColor = Color.Yellow        'Color it yellow'
+myButton.Text = "Click me"               'Put some text on it'
+myForm.Controls.Add(myButton)            'Add it to our form'
 ```
+
+``` vb
+Public Shared Sub Main()
+  Dim form As New NXOpenWinForm()
+  form.ShowDialog()
+End Sub
+```
+
 
 - 23
 
