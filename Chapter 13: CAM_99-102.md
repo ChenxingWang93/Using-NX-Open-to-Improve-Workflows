@@ -33,6 +33,18 @@
 ![6561697787001_ pic_hd](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/61d9e88a-6203-4f20-9859-70b86613ee74)
 </details>
 
+``` vb
+Dim setup As NXOpen.CAM.CAMSetup = workPart.CAMSetup
+Dim group As NXOpen.CAM.NCGroupCollection = setup.CAMGroupCollection
+Dim machineRoot As NXOpen.CAM.NCGroup = setup.GetRoot(NXOpen.CAM.CAMSetup.View.MachineTool)
+
+Dim camFalse As CAM.NCGroupCollection.UseDefaultName = CAM.NCGroupCollection.UseDefaultName.False
+
+Dim toolGroup As CAM.NCGroup
+toolGroup = groupCollection.CreateTool(machineRoot, "mill_planar", "BALL_MILL", camFalse, "T24")
+Dim myTool As CAM.Tool = CType(toolGroup, CAM.Tool)
+```
+
 |Tool Type 工具类型|Tool Subtype 工具亚型|
 |-----------------|-------------------|
 |mill_planar      |MILL               |
@@ -45,5 +57,3 @@
 |hole_making      |COUNTER_BORE       |
 |drill            |COUNTERSINKING_TOOL|
 |drill            |COUNTERBORING_TOOL |
-
-
