@@ -57,3 +57,17 @@ Dim myTool As CAM.Tool = CType(toolGroup, CAM.Tool)
 |hole_making      |COUNTER_BORE       |
 |drill            |COUNTERSINKING_TOOL|
 |drill            |COUNTERBORING_TOOL |
+
+``` vb
+Dim toolBuilder As CAM.MillToolBuilder = groupCollection.CreateMillToolBuilder(myTool)
+
+toolBuilder.TlDiameterBuilder.Value = 4.5
+toolBuilder.TlHeightBuilder.Value = 15
+toolBuilder.TlHeightBuilder.Value = 4
+toolBuilder.Description = "Example ball mill"
+toolBuilder.HelicalDiameter.Value = 80.0
+
+toolBuilder.Commit
+
+toolBuilder.Destroy
+```
