@@ -32,3 +32,18 @@
 
 ![6561697787001_ pic_hd](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/61d9e88a-6203-4f20-9859-70b86613ee74)
 </details>
+
+|Tool Type 工具类型|Tool Subtype 工具亚型|
+|-----------------|-------------------|
+|mill_planar      |MILL               |
+|mill_planar      |CHAMFER_MILL       |
+|mill_planar      |BALL_MILL          |
+|mill_planar      |SPHERICAL_MILL     |
+|mill_planar      |T_CUTTER           |
+|mill_planar      |BARREL             |
+|hole_making      |COUNTER_SINK       |
+|hole_making      |COUNTER_BORE       |
+|drill            |COUNTERSINKING_TOOL|
+|drill            |COUNTERBORING_TOOL |
+
+
