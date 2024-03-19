@@ -15,6 +15,41 @@
 ![6541697786989_ pic_hd](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/7e46ddc2-d639-4427-965b-6f08ce95b085)
 </details>
 
+``` vb
+Dim setup As NXOpen.CAM.CAMSetup = workPart.CAMSetup
+Dim opCollection As NXOpen.CAM.OperationCollection = setup.CAMOperationCollection
+
+For Each op As NXOpen.CAM.Operation In opCollection
+   If TypeOf(op) Is NXOpen.CAM.HoleDrilling Then
+      Dim drillop As CAM.HoleDrilling = CType(op, CAM.HoleDrilling)
+      Dim builder As CAM.HoleDrillingBuilder = opCollection.CreateHoleDrillingBuilder(drillop)
+      builder.CollisionCheck = True
+      builder.Commit
+   End If
+Next
+```
+
+|Function 函数|Creates a builder for 创建一个|
+|-------------|-----------------------------|
+|CreateCavityMillingBuilder          |A planar milling cavity operation 平面铣削打孔操作     |
+|CreateCenterlineDrillTurningBuilder |A centerline drill turning operation 中心线打孔转动操作|
+|CreateEngravingBuilder              |A planar milling text operation 平面铣削文字操作       |
+|CreateFaceMillingBuilder            |A planar milling facing operation 平面铣削文字操作     |
+|CreateHoleDillingBuilder            |A hole drilling operation 打孔操作                    |
+|CreatePlanarMillingBuilder          |A planar milling planar operation 铣削平面操作         |
+
+
+|Function 函数|Creates a builder for 创建一个|
+|-------------|-----------------------------|
+|CreateBarrelToolBuilder|A barrel tool 桶工具|
+|CreateDrillGeomBuilder |A drill geometry 一种打孔几何|
+|CreateDrillMethodBuilder|A drill method  一种打孔方法|
+|CreateDrillTapToolBuilder|A drill tap tool 一种钻丝锥工具|
+|CreateMachineTurretGroupBuilder|A machine turret group|
+|CreateMillToolBuilder|A mill tool|
+|CreateMillGeomBuilder|A mill geometry|
+|CreateProgramOrderGroupBuilder|A program order group|
+
 
 - 101
   - CAM views CAM 视图
