@@ -24,6 +24,44 @@
 ![6551697786995_ pic_hd](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/675db386-be45-4e1f-b0c3-a7ea43625835)
 </details>
 
+``` vb
+Dim setup As NXOpen.CAM.CAMSetup = workPart.CAMSetup
+Dim groups As NXOpen.CAM.NCGroupCollection = setup.CAMGroupCollection
+
+For Each group As NXOpen.CAM.NCGroup In groups
+   If TypeOf(group) Is NXOpen.CAM.Tool Then
+      Dim toolType As NXOpen.CAM.Tool.Types
+      Dim toolSubType As NXOpen.CAM.Tool.Subtypes
+      tool.GetTypeAndSubtype(toolType, toolSubtype)
+      If toolType = CAM.Tool.Types.Mill
+         Dim builder As NXOpen.CAM.MillingToolBuilder = groups.CreateMillToolBuilder(tool)
+         builder.CoolantThrough = True
+         builder.Commit
+      End If
+    End If
+Next Next
+```
+
+#### ProgramView 程序视图
+
+#### MachineToolView 机械工具视图
+
+#### GeometryView 几何视图
+
+#### MethodView 方法视图
+
+``` vb
+Dim setup As NXOpen.CAM.CAMSetup = workPart.CAMSetup
+
+Dim geometryRoot As NXOpen.CAM.NCGroup = setup.GetRoot(NXOpen.CAM.CAMSetup.View.Geometry)
+Dim methodRoot   As NXOpen.CAM.NCGroup = setup.GetRoot(NXOpen.CAM.CAMSetup.View.MachineMethod)
+Dim machineRoot  As NXOpen.CAM.NCGroup = setup.GetRoot(NXOpen.CAM.CAMSetup.View.ProgramOrder)
+
+Dim geometryRootMembers As NXOpen.CAM.CAMObject() = geometryRoot.GetMembers
+Dim methodRootMembers   As NXOpen.CAM.CAMObject() =   methodRoot.GetMembers
+Dim machineRootMembers  As NXOpen.CAM.CAMObject() =  machineRoot.GetMembers
+Dim programRootMembers  As NXOpen.CAM.CAMObject() =  programRoot.GetMembers
+```
 
 - 102
   - Creating a Tool 创建一个工具🔧
