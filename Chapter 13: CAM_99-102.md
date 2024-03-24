@@ -6,6 +6,17 @@
 ![6531697786983_ pic_hd](https://github.com/ChenxingWang93/Using-NX-Open-to-Improve-Workflows/assets/31954987/96743e54-49c0-4c4f-8893-003a4a25c9af)
 </details>
 
+``` vb
+Dim workPart As Part = NXOpen.Session.GetSession.Parts.Work
+Dim setup As NXOpen.CAM.CAMSetup = workPart.CAMsetup
+```
+
+#### Cycling through CAM Objects
+
+``` vb
+
+```
+
 
 - 100
   - editing CAM Objects 编辑 CAM 对象
