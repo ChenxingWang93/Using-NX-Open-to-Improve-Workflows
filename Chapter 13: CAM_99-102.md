@@ -147,18 +147,18 @@ toolGroup = groupCollection.CreateTool(machineRoot, "mill_planar", "BALL_MILL", 
 Dim myTool As CAM.Tool = CType(toolGroup, CAM.Tool)
 ```
 
-|Tool Type 工具类型|Tool Subtype 工具亚型|
-|-----------------|-------------------|
-|mill_planar      |MILL               |
-|mill_planar      |CHAMFER_MILL       |
-|mill_planar      |BALL_MILL          |
-|mill_planar      |SPHERICAL_MILL     |
-|mill_planar      |T_CUTTER           |
-|mill_planar      |BARREL             |
-|hole_making      |COUNTER_SINK       |
-|hole_making      |COUNTER_BORE       |
-|drill            |COUNTERSINKING_TOOL|
-|drill            |COUNTERBORING_TOOL |
+|Tool Type 工具类型|Tool Subtype 工具亚型          |
+|-----------------|-----------------------------|
+|mill_planar      |MILL铣削                      |
+|mill_planar      |CHAMFER_MILL倒角铣削           |
+|mill_planar      |BALL_MILL球体铣削              |
+|mill_planar      |SPHERICAL_MILL球形铣削         |
+|mill_planar      |T_CUTTERT型切                 |
+|mill_planar      |BARREL桶                      |
+|hole_making      |COUNTER_SINK柜台_水槽          |
+|hole_making      |COUNTER_BORE沉孔              |
+|drill            |COUNTERSINKING_TOOL柜台_水槽工具|
+|drill            |COUNTERBORING_TOOL沉孔工具     |
 
 ``` vb
 Dim toolBuilder As CAM.MillToolBuilder = groupCollection.CreateMillToolBuilder(myTool)
