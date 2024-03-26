@@ -14,9 +14,27 @@ Dim setup As NXOpen.CAM.CAMSetup = workPart.CAMsetup
 #### Cycling through CAM Objects
 
 ``` vb
+Dim setup As NXOpen.CAMSetup = workPart.CAMSetup
+Dim opCollection As NXOpen.CAM.OperationCollection = setup.CAMOperationCollection
 
+For Each op As NXOpen.CAM.Operation In opCollection
+   Dim opType As System.Type = op.GetType
+   Guide.InfoWriteLine(opType.ToString)
+Next
 ```
 
+``` vb
+Dim setup As NXOpen.CAM.CAMSetup = workPart.CAMSetup
+Dim groups As NXOpen.CAM.NCGroupCollection = setup.CAMGroupCollection
+
+For Each group As NXOpen.CAM.NCGroup In groups
+   If TypeOf(group) Is NXOpen.CAM.Tool = DirectCast(group, NXOpen.CAM.Tool)
+   Dim toolType As NXOpen.CAM.Tool.Types                /*类型*/
+   Dim toolSubType As NXOpen.CAM.Tool.Subtypes          /*亚型*/
+   tool.GetTypeAndSubtype(toolType, toolSubType)        /**/
+   Guide.InfoWriteLine("Tool type:    " & toolType.ToString)
+   Guide.InfoWriteLine("Tool subtypes:" & toolSubType.ToString)
+```
 
 - 100
   - editing CAM Objects 编辑 CAM 对象
